@@ -13,7 +13,7 @@ https://github.com/pabpabpab/1C-finalCourseProject
 https://github.com/pabpabpab/1C-finalCourseProject/blob/main/notBeginner.png
 
 
-Еще немного обо мне и моих достижениях:
+Еще немного обо мне:
 
 1) будучи самозанятым (ИП) 15 лет программировал функционал веб-проектов используя MySQL, PHP, Javascript (сайты по поиску работы, поиску недвижимости, сайты знакомств);
 
